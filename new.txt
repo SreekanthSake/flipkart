@@ -1,9 +1,0 @@
-hello
-world
-New line added
-This
-is 
-a 
-new
-notepad
-
