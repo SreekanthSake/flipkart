@@ -1,6 +1,6 @@
 hello
 world
-New line added
+New line conflict a=40
 This
 is 
 a 
