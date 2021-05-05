@@ -1,9 +1,12 @@
 hello
 world
-Conflict line a=10
+Conflict line a=20
 This
 is 
 a 
 new
 notepad
 
+Another line added to
+check git diff command
+staged

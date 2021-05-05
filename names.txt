@@ -14,3 +14,7 @@ Clear:wq
 Hello World new beginning
 ::q!
 insert
+wanted
+testing new file
+for git diff
+d
