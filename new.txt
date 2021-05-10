@@ -3,8 +3,7 @@ is
 
 a
 There is a 
-new
-file
+new line 
 to test
 a 
 branch
