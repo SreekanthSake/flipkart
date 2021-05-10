@@ -14,3 +14,12 @@ notepad
 Another line added to
 check git diff command
 staged
+This
+is
+
+a
+There is a 
+new line 
+to test
+a 
+branch
